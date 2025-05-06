@@ -1,4 +1,4 @@
-function calculaMedia() {
+function calculaimc() {
     const peso = parseFloat(document.getElementById("peso").value);
     const altura = parseFloat(document.getElementById("altura").value);
 
